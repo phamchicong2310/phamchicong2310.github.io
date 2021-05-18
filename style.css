@@ -200,7 +200,7 @@ a {
   font-weight: 400;
 }
 .experience .company-wrapper {
-  width: 30%;
+  width: 50%;
   float: left;
   text-align: left;
   padding-right: 5%;
@@ -213,7 +213,7 @@ a {
   }
 }
 .experience .job-wrapper {
-  width: 70%;
+  width: 50%;
   float: left;
   text-align: left;
   padding-right: 5%;
